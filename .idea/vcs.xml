@@ -3,7 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/aqua-park/py-aquapark" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/calculadora-de-energia/programa energia/Projeto_contas_de_luz" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/rpg-poo/rpg-oop/py-elves-and-dwarves" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calculadora-de-energia/Projeto_contas_de_luz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rpg-poo/py-elves-and-dwarves" vcs="Git" />
   </component>
 </project>
