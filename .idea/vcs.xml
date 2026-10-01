@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/aqua-park/py-aquapark" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calculadora-de-energia/programa energia/Projeto_contas_de_luz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rpg-poo/rpg-oop/py-elves-and-dwarves" vcs="Git" />
+  </component>
+</project>
